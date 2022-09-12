@@ -26,9 +26,10 @@
       defaultsOpts.video = {
         facingMode: shouldFaceUser ? "user" : "environment"
       };
-    }
+      //Activate camera
+    };
 
-    //Activate camera
+  
   
 
     // Listen video to start playing

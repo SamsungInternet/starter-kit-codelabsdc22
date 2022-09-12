@@ -40,7 +40,7 @@ For this codelab, we recommend using Glitch
 
 Open a new browser tab and go to https://glitch.com.
 Click New Project, then Clone from Git Repo.
-Clone https://github.com/SamsungInternet/camera-fold-starterkit
+Clone [https://github.com/SamsungInternet/starter-kit-codelabsdc22](https://github.com/SamsungInternet/starter-kit-codelabsdc22)
 
 ### Add HTML video markup
 

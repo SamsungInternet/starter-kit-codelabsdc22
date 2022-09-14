@@ -204,5 +204,6 @@ If you would like to learn more about it, here are some resources:
 - [The Device Posture API](https://github.com/w3c/device-posture)
 
 - [Video explainer](https://www.youtube.com/embed/SfKrjvsaOnU)
+- [Viewport Segment API](https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/Foldables/explainer.md)
 
 ![alt text](https://cdn.glitch.com/13771a9f-c66b-4a73-87e9-b9fe0f4bb542%2Fzip.jpg?v=1629114185887 "Samsung Galaxy Flip")
